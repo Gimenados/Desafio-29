@@ -1,0 +1,4 @@
+En este ejercicio, voy a crear una aplicación en Node.js que lea un archivo de texto y cuente el número de 
+líneas, 
+palabras y
+caracteres en ese archivo
